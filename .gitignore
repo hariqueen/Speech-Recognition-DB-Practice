@@ -1,0 +1,17 @@
+# dotenv envirionment variables file
+.env
+
+# cache & etc
+*__pycache__/
+*etc/
+*wav/
+
+*features/
+*.DS_Store
+.vscode
+
+# test files
+*.ipynb
+test*
+*images/
+*AI허브샘플데이터_한국인대화음성/
